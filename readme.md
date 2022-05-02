@@ -1,5 +1,16 @@
 # Internship task for OpenX
 
+
+## Information
+
+This repository was created to publish resolved task for internship recruitment process for [OpenX]([./__mock__](https://www.openx.com/)).
+
+Project structure:
+
+* [\_\_mock\_\_](./__mock__) contains mock data for testing purpouses
+* [\_\_tests\_\_](./__test__) contains test files
+* [src](./src) contains source files
+
 ## Run
 
 Firstly clone repository
