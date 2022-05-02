@@ -8,7 +8,7 @@ This repository was created to publish resolved task for internship recruitment 
 Project structure:
 
 * [\_\_mock\_\_](./__mock__) contains mock data for testing purpouses
-* [\_\_tests\_\_](./__test__) contains test files
+* [\_\_tests\_\_](./__tests__) contains test files
 * [src](./src) contains source files
 
 ## Run
