@@ -37,6 +37,8 @@ Run main JavaScript file
 node ./src/fetch.js
 ```
 
+\* There will be no output. Put your `console.log`'s inside [fetch.js](./src/fetch.js).
+
 ## Test
 
 Test by entering the following
